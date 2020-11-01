@@ -1,6 +1,11 @@
-let pays= 'Europe';
-console.log(typeof(pays));
-if (typeof(pays)!== 'string'){
-    alert("Format incorrect");
+let sections = document.getElementsByTagName('section');
+function capFirst(el){
+    el.split("_").map(function(e){ console.log(el + " splitted");})
+    return (el+'').charAt(0).toUpperCase()+el.substr(1);
 }
-let fruits = [["Pomme", "Orange"]["Tomate", "Potimarron"]];
+for (let i=0; i<sections.length;i++){
+    document.getElementsByTagName("nav")[0].innerHTML+=
+    `
+        <li><a href="#`+sections[i].id+`">`+capFirst(sections[i].id)+`</a></li>
+    `
+}
