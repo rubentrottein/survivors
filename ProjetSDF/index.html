@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <meta charset="utf-8">
+        <title> Projet SDF </title>
+        <link rel="stylesheet" href="css/style.css">
+        <video poster="img/poster.jpg" id="bgvid" playsinline autoplay muted loop>
+            <!-- 
+            - Video needs to be muted, since Chrome 66+ will not autoplay video with sound.
+            WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
+            <source src="video/Sunset - 15779.mp4   " type="video/webm">
+        </video>
+    </head>
+    <body>
+        <header>
+            <h1>Projet SDF</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Cahier des charges</a></li>
+                    <li><a href="uml.html"></a>UML</a></li>
+                    <li><a href="pages/index.html"></a>Pages exemples</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h2>Cahier des Charges</h2>
+            <h3>Technos</h3>
+            <ul>
+                <li>Symfony 5</li>
+                <li>JS</li>
+            </ul>
+            <h3>Objectifs</h3>
+            <ul>
+                <li>Proposer un parc de logements type loft</li>
+                <li>Mettre en contact des célébrités et des donateurs</li>
+            </ul>
+            <h3>feats</h3>
+            <ul>
+                <li>Page de présentation du projet</li>
+                <li>Annuaire des contreparties</li>
+                <li>Fiche contrepartie</li>
+                <li>Annuaire des célébrités</li>
+                <li>Fiche célébrité</li>
+                <li>Compte donateur</li>
+            </ul>
+        
+            <h3>Données</h3>
+            <ul>
+                <li>contreparties</li>
+                <li>célébrités</li>
+                <li>donateurs</li>
+                <li>paliers</li>
+            </ul>
+            <h2>Pages du site</h2>
+            <h3>Page d'accueil</h3>
+            <ul>
+                <li>Présentation Objectifs</li>
+                <li>Présentation Paliers</li>
+                <li>liste des associations</li>
+                <li>Suggestions de contreparties</li>
+                <li>Suggestions de célébrités</li>
+                <li>Contact et activités des associations</li>
+            </ul>
+            <h3>Page célébrité</h3>
+            <ul>
+                <li>Profil compte + mail + vérification</li>
+                <li>Ajout des célébrités en présentiel</li>
+                <li>Ajout des contreparties en présentiel</li>
+            </ul>
+            <h3>Compte célébrité</h3>
+            <ul>
+                <li>Ajout d'articles</li>
+                <li>Propositions de prix de départ</li>
+                <li>Potentiellement choix du projet</li>
+                <li>Modération et publication manuelle</li>
+            </ul>
+            <h3>Compte donateur</h3>
+            <ul>
+                <li>Contributions effectuées</li>
+                <li>Célébrites ajoutées en favoris</li>
+                <li>Contreparties ajoutées en favoris</li>
+                <li>Profil : mot de passe adresse mail</li>
+                <li>Paiement via Stripe / Paypal (ou via partenaire de l'association)</li>
+            </ul>
+        </main>
+        <footer>
+            <p>Le footer</p>
+        </footer>
+    </body>
+</HTML>

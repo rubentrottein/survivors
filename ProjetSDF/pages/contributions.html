@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <meta charset="utf-8">
+        <title> Contributions </title>
+        <link rel="stylesheet" href="../css/style.css">
+        <video poster="img/poster.jpg" id="bgvid" playsinline autoplay muted loop>
+            <!-- 
+            - Video needs to be muted, since Chrome 66+ will not autoplay video with sound.
+            WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
+            <source src="../video/Clouds - 16011.mp4" type="video/webm">
+        </video>
+    </head>
+    <body>
+        <header>
+            <h1>Projet SDF</h1>
+            <nav>
+                <ul>
+                    <li><a href="../index.html">Cahier des charges</a></li>
+                    <li><a href="index.html"></a>Pages exemples</a></li>
+                    <li><a href="vip.html"></a>Page VIP</a></li>
+                    <li><a href="contributions.html"></a>Pages exemples</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h2>Cahier des Charges</h2>
+            <h3>Chaussures de Michael Jordan</h3>
+            <article class="cardZ">
+                <figure>
+                    <img src="../img/jordan.jpg">
+                    <figcaption>Les chaussures de Jordan</figcaption>
+                </figure>
+            </article>
+            <article class="cardZ">
+                <h4 onclick="open()">255€</h4>
+                <button onclick="exemple()">255€</button>
+                <p onclick="timer()">Début enchère dans <span id="time">2d 15h</span></p>
+            </article>
+            
+        </main>
+        <footer>
+            <p>Le footer</p>
+        </footer>
+        <script src="../js/script.js"></script>
+    </body>
+</HTML>

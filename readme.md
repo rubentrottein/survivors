@@ -1,3 +1,10 @@
+0. Références:
+    Trello du projet
+    https://trello.com/b/VN6CoFNM/enseignement-mise-en-place-du-projet
+
+    Git du projet
+    https://github.com/rubentrottein/survivors
+    
 1. Services
     Initiation à l'informatique
         - En présentiel
