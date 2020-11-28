@@ -36,3 +36,18 @@
     2. Formation aux meilleures pratiques
     3. Benevoles motivés et disponibles
         - Proposition d'une permanence et d'une plateforme d'entraide
+
+4. Ordre du jour du 28/11/2020
+    1. Estimation de la charge de travail
+    2. Crée nos canvas et nos livrables.
+    3. Choix technologies pour les différents modules du trello.
+    4. dead line en fonction de nos emplois du temps
+    5. Jour des séances de travail histoire de créer un rythme.
+
+Bilan
+-------------
+    On reste en HTML CSS pour la vitrine. On l'integrera dans un symphony ou dans un Angular quand on fera la plate-forme / forum
+
+Vitrine finie mi decembre
+Activité lancée en Mars
+Bilan tous les samedis

@@ -1,11 +1,9 @@
 let sections = document.getElementsByTagName('section');
-function capFirst(el){
-    el.split("_").map(function(e){ console.log(el + " splitted");})
-    return (el+'').charAt(0).toUpperCase()+el.substr(1);
+let nav = document.getElementsByTagName("nav")[0];
+function capFirst(element){
+    element.split("_").map(function(e){ console.log(element + " splitted");})
+    return (element+'').charAt(0).toUpperCase()+element.substr(1);
 }
 for (let i=0; i<sections.length;i++){
-    document.getElementsByTagName("nav")[0].innerHTML+=
-    `
-        <li><a href="#`+sections[i].id+`">`+capFirst(sections[i].id)+`</a></li>
-    `
+    nav.innerHTML+= `<li><a href="#`+sections[i].id+`">`+capFirst(sections[i].id)+`</a></li>`;
 }
