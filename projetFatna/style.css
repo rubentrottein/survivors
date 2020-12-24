@@ -230,7 +230,12 @@ body,html{
     width : 40px;
 
 }
-
+header{
+  display: flex;
+  justify-content: space-around;
+}
+header article nav{margin: 0 1rem;display: flex; justify-content: space-around;}
+header article li{margin: 0 1rem;}
 /**********responsive **********/
 
 @media (min-width: 798px){

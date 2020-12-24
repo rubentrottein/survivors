@@ -1,0 +1,26 @@
+
+.cards{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    background: black;
+    margin: 8rem auto;
+    text-align: center;
+    height:30rem;
+}
+.cards a{
+    background: var(--beige);
+    margin: auto 3rem;
+    padding: 3.5rem 0;
+    width: 22%;
+    height: 10rem;
+    color: var(--blue);
+}
+section{min-height: 10rem;}
+h2{height:4rem;}
+main{height: 48rem;}
+footer{
+    position: fixed;
+    bottom:0;
+}
