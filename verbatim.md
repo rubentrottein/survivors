@@ -1,27 +1,28 @@
-0. 
-De moi à Zoom Session 610 ::  (En privé) 11:07 PM
-https://mistertea.fr/zoningExport/zoningCss.html
-De Zoom Session 610 à moi:  (En privé) 11:11 PM
-https://www.blogduwebdesign.com/25-sites-utilisant-un-effet-de-parallaxe-original/
-De moi à Zoom Session 610 ::  (En privé) 12:34 AM
-https://www.hdgraph.com/
-De moi à Zoom Session 610 ::  (En privé) 12:42 AM
-https://genshin.mihoyo.com/fr
-https://www.epicgames.com/site/fr/home
-De moi à Zoom Session 610 ::  (En privé) 12:56 AM
-https://www.speedtest.net/fr
-De moi à Zoom Session 610 ::  (En privé) 01:42 AM
-https://github.com/rubentrottein/survivors
+# Verbatim
+## 0.
+[Zoning Ruben](https://mistertea.fr/zoningExport/zoningCss.html)
 
-1. 
-let pays= 'Europe';
-console.log(typeof(pays));
-if (typeof(pays)!== 'string'){
-    alert("Format incorrect");
-}
-let fruits = [["Pomme", "Orange"]["Tomate", "Potimarron"]];
+[WebDesign](https://www.blogduwebdesign.com/25-sites-utilisant-un-effet-de-parallaxe-original/)
 
-2. 28/11/2020
+[HDGraph](https://www.hdgraph.com/)
+
+[Genshin Impact](https://genshin.mihoyo.com/fr)
+
+[Epic Games](https://www.epicgames.com/site/fr/home)
+
+[SpeedTest](https://www.speedtest.net/fr)
+
+[Survivors](https://github.com/rubentrottein/survivors)
+
+## 1. 
+    let pays= 'Europe';
+    console.log(typeof(pays));
+    if (typeof(pays)!== 'string'){
+        alert("Format incorrect");
+    }
+    let fruits = [["Pomme", "Orange"]["Tomate", "Potimarron"]];
+
+## 2. 28/11/2020
 
 - Aider les jeunes
     - Maisons de quartiers
@@ -44,5 +45,5 @@ let fruits = [["Pomme", "Orange"]["Tomate", "Potimarron"]];
     - Accompagnement aux démarches en ligne et utilisation des sites officiels
     - Inscription aux formations de programmation
 
-3. Points de verification / points d'arret
+## 3. Points de verification / points d'arret
 -   deploiement Symphony / Angular
