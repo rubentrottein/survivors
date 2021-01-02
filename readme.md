@@ -108,12 +108,13 @@ Bilan 23/12/2020
 ---------------------------
 
 ## 5. Ordre du jour du 02/01/2021
-    1. Création des branches GIT
-    2. Avancement des branches-Test
+1. Création des branches GIT
+2. Avancement des branches-Test
 
+Bilan 02/01/2021
 ----------------------------
-
-
+1. Branches créees
+2. Prochaine session -> Merge
 
 
 
