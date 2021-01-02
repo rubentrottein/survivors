@@ -47,7 +47,7 @@
 
 ![test](img/bg2.jpg)
 
-Bilan
+Bilan 28/11/2020
 -------------
 
 >On reste en HTML CSS pour la vitrine. On l'integrera dans un symphony ou dans un Angular quand on fera la plate-forme / forum
@@ -62,7 +62,7 @@ Bilan
 3. Mise en place du code review
 4. Restacking?
 
-Bilan
+Bilan 23/12/2020
 ---------------
 1. Tableau des livrables et des délais
 <table>
@@ -106,6 +106,18 @@ Bilan
 4. Pas de restacking éventuellement évolution(back end) en intégrant la page vitrine
 
 ---------------------------
+
+## 5. Ordre du jour du 02/01/2021
+    1. Création des branches GIT
+    2. Avancement des branches-Test
+
+----------------------------
+
+
+
+
+
+
 
 <style> 
 div{text-align: center; }
