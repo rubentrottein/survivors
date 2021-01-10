@@ -8,7 +8,6 @@ for (let i=0; i<sections.length;i++){
     nav.innerHTML+= `<li><a href="#`+sections[i].id+`">`+capFirst(sections[i].id)+`</a></li>`;
 }
 
-
 //Sticky Nav
 
 // When the user scrolls the page, execute myFunction
