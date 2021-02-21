@@ -47,3 +47,11 @@
 
 ## 3. Points de verification / points d'arret
 -   deploiement Symphony / Angular
+
+## 4.07/02/2020 
+Carte Accompagnement à la navigation
+- Eviter les pièges des design des sites
+- Apprivoiser les sites internet
+- Identifier les risques
+- Reconnaitre les éléments traditionnels des sites selon leurs usages
+- Adopter des pratiques saines de navigation sur internet.

@@ -55,7 +55,11 @@ nav{
     background: var(--lightblue);
     color:var(--beige);
 }
-a{text-decoration: none; color:var(--brown);transition: .5s;}
+a{
+    text-decoration: none;
+    color:var(--brown);
+    transition: .5s;
+}
 a:hover{color: var(--beige);}
 .sticky a{color:var(--beige)}
 .sticky a:hover{color: var(--brown);}

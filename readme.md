@@ -100,7 +100,7 @@ Bilan 23/12/2020
     2. Initiation aux code à l'intention des jeunes(curieux ou en décrochage scolaire)?
 
 3. Proposer des design ou des éléments
-    1. Faire une branch
+    1. Faire une branche
     2. Merge seront le samedi
 
 4. Pas de restacking éventuellement évolution(back end) en intégrant la page vitrine
@@ -116,32 +116,15 @@ Bilan 02/01/2021
 1. Branches créees
 2. Prochaine session -> Merge
 
+## 6. Bilan du 10/01/2021
+1. 1er Merge: + 2 images! (et un petit comment du script.js)
 
+## 7. Bilan du 07/02/2021
+1. Contenu de la carte "Accompagnement à la navigation".
 
-
-
-<style> 
-div{text-align: center; }
-.bonus{background: seagreen;}
-#test, #test1{
-    background: seagreen;
-    color: black;
-    display: inline;
-    width: 25%;
-    margin: auto 15%;
-    padding: 1%;
-}
-#test1{
-    background: steelblue;
-}
-#test2{
-    background: indianred;
-    margin: 0 auto;
-    width: 15%;
-    font-family:'Comic Sans MS';
-}
-</style>
-
-<div id="test" class="bonus">On peut faire du css</div>
-<div id="test1">Dans les docs md.</div>
-<div id="test2">Mais pas du JS!</div>
+-> Accompagnement à la navigation
+- Eviter les pièges des design des sites
+- Apprivoiser les sites internet
+- Identifier les risques
+- Reconnaitre les éléments traditionnels des sites selon leurs usages
+- Adopter des pratiques saines de navigation sur internet
